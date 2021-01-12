@@ -1,5 +1,5 @@
 # download_chembl
-download active ligands associated with a protein target from ChEMBL using web services API
+download active ligands associated with a protein target from ChEMBL using their web services API
 
 ```python
 import requests
